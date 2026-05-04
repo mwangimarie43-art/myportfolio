@@ -1,18 +1,17 @@
 const portfolioData = {
   personal: {
-    name: "Sarah Anderson",
+    name: "Mary Mwangi",
     title: "Data Analyst & Scientist",
     bio: "Passionate about uncovering insights from data and building predictive models. With 5+ years of experience in data analysis and machine learning, I've helped organizations make data-driven decisions.",
-    email: "sarah@example.com",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA"
+    email: "mariemwangi43@gmail.com",
+    phone: "+254792813165",
+    location: "Naitobi, Kenya"
   },
 
   stats: [
-    { number: "50+", label: "Projects Completed" },
-    { number: "100+", label: "Data Insights Delivered" },
-    { number: "5+", label: "Years Experience" },
-    { number: "20+", label: "Clients Served" }
+    { number: "5+", label: "Projects Completed" },
+    { number: "2+", label: "Years Experience" },
+    { number: "4+", label: "Clients Served" }
   ],
 
   projects: [
