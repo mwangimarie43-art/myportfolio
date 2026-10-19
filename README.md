@@ -217,4 +217,4 @@ Feel free to use this template for your portfolio.
 
 ---
 
-**Good luck with your portfolio! 🎉
+ 🎉
